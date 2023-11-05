@@ -1,0 +1,11 @@
+C:\Users\heist\Documents\Code\14 Klasa Process\bin\Debug\14 Klasa Process.exe.config
+C:\Users\heist\Documents\Code\14 Klasa Process\bin\Debug\14 Klasa Process.exe
+C:\Users\heist\Documents\Code\14 Klasa Process\bin\Debug\14 Klasa Process.pdb
+C:\Users\heist\Documents\Code\14 Klasa Process\obj\Debug\14 Klasa Process.csproj.AssemblyReference.cache
+C:\Users\heist\Documents\Code\14 Klasa Process\obj\Debug\14 Klasa Process.csproj.SuggestedBindingRedirects.cache
+C:\Users\heist\Documents\Code\14 Klasa Process\obj\Debug\_14_Klasa_Process.Form1.resources
+C:\Users\heist\Documents\Code\14 Klasa Process\obj\Debug\_14_Klasa_Process.Properties.Resources.resources
+C:\Users\heist\Documents\Code\14 Klasa Process\obj\Debug\14 Klasa Process.csproj.GenerateResource.cache
+C:\Users\heist\Documents\Code\14 Klasa Process\obj\Debug\14 Klasa Process.csproj.CoreCompileInputs.cache
+C:\Users\heist\Documents\Code\14 Klasa Process\obj\Debug\14 Klasa Process.exe
+C:\Users\heist\Documents\Code\14 Klasa Process\obj\Debug\14 Klasa Process.pdb
